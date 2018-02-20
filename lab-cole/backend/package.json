@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "401 JS --  Lab 36 Full Stack Crud ===",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "http-errors": "^1.6.2",
+    "jest": "^21.2.1",
+    "mongod": "^2.0.0",
+    "mongoose": "^4.12.6",
+    "morgan": "^1.9.0",
+    "superagent": "^3.8.0"
+  }
+}

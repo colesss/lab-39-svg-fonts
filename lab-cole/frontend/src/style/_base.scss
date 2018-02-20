@@ -1,0 +1,10 @@
+html {
+  position: relative;
+  head,link,script { display: none; }
+  body { 
+    position: relative; 
+    //background: url('../asset/icon/yaw.png');
+    font-family: bellefair;
+  }
+  span, em, strong, i { display: inline } 
+}
